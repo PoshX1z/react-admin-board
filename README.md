@@ -1,7 +1,7 @@
-Introducing a React-powered admin dashboard designed to give you complete control over your backend systems. 
-Effortlessly manage key areas like your website, orders, employees, and customers. 
-Stay organized with features like a calendar, Kanban board, rich text editor, and dynamic charts (area, bar, pie) 
-for easy data visualization and management.
+Introducing a React-powered admin dashboard, built with React, Vite.js, JavaScript, and styled with Tailwind CSS, 
+designed to give you complete control over your backend systems. Effortlessly manage key areas like your website, orders, employees, and customers. 
+Stay organized with features like a calendar, Kanban board, rich text editor, 
+and dynamic charts (area, bar, pie) for easy data visualization and management.
 
 Here's a preview of the website:
 
